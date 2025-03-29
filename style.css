@@ -1,0 +1,232 @@
+header img {
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f8f8;
+}
+body {
+    color: black;
+}
+body img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+body p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.fyt {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+.footer {
+    background: black;
+    padding: 20px;
+    text-align: center;
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.footer-container div {
+    text-align: left;
+}
+h3 {
+    margin-bottom: 10px;
+}
+a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {
+    margin-top: 20px;
+    font-size: 14px;
+    color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f8f8f8;
+}
+.cars {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.car {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.car img {
+    width: 100%;
+    border-radius: 5px;
+}
+.more {
+    background: black;
+    color: white;
+    border: none;
+    
+    cursor: pointer;
+    width: 90%;
+    
+}
+.more:hover {
+    background: #444;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+}
+.models h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.cars {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+.car img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+}
+.car p {
+    margin-top: 5px;
+    font-weight: bold;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.image-container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
+.image-container img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+.text-overlay {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+}
+.text-overlay h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+.text-overlay p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.more {
+    margin-top: 20px;
+}
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+.btn:hover {
+    background: lightgray;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.image-container {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.image-container img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+.text-overlay {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+}
+.text-overlay h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+}
+.text-overlay p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.more {
+    margin-top: 20px;
+}
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+.btn:hover {
+    background: lightgray;
+}
+.btn.outline {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.btn.outline:hover {
+    background: white;
+    color: black;
+}
